@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula</string>
+    <string name="AppName">MyApp</string>
+    <string name ="inputText">Name</string>
+    <string name="confirmButton">Button</string>
+    <string name="appName">TextView</string>
+    <string name="mymenu">Menu</string>
+</resources>

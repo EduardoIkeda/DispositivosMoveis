@@ -31,5 +31,8 @@ class MainActivity : AppCompatActivity() {
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
+        Button b = (Button) findViewById(R.id.button2)
+        b.setOnClickListener(new View.OnClickListener()
+        {@Overridepublic void onClick(View v){Log.i("TAG", "BotaoClicado");}
     }
 }
