@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Aula</string>
+    <string name="editText">Nome</string>
+    <string name="button">Botão</string>
+    <string name="textView">Olá Mundo!</string>
+    <string name="button2">Mudar texto</string>
+    <string name="texto">Testando</string>
+    <string name="oimundo">Olá mundo!</string>
 </resources>
