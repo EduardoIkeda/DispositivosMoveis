@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Faculdade</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">Nova Disciplina</string>
+    <string name="action_terceiratela">Terceira Tela</string>
+    <string name="title_activity_disciplina">DisciplinaActivity</string>
+    <string name="title_activity_terceiro_layout">TerceiroLayout</string>
+</resources>
