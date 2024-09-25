@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_new
+id action_settings
+id action_terceiratela
+id botao
+id disciplina
+id imageView
+id linearLayout
+id main
+id my_recycler_view
+id my_text_view
+id my_text_view2
+id textView
+id toolbar
+id toolbar2
+layout activity_main
+layout disciplina_layout
+layout line
+layout terceiro_layout
+menu menu_lista_disciplinas
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_new
+string action_settings
+string action_terceiratela
+string app_name
+string title_activity_disciplina
+string title_activity_terceiro_layout
+style Base.Theme.Faculdade
+style Theme.Faculdade
+xml backup_rules
+xml data_extraction_rules
